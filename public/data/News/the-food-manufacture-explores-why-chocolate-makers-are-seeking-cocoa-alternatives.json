@@ -1,0 +1,32 @@
+{
+  "data": {
+    "newss": [
+      {
+        "title": "The Food Manufacture Explores Why Chocolate Makers are Seeking Cocoa Alternatives",
+        "slug": "the-food-manufacture-explores-why-chocolate-makers-are-seeking-cocoa-alternatives",
+        "public": true,
+        "excerpts": "The Food Manufacture Explores Why Chocolate Makers are Seeking ",
+        "content": "Key cocoa-producing regions like West Africa are grappling with severe challenges, as analyzed by The Food manufacture. Harmattan winds in the Ivory Coast and Nigeria are stressing trees, causing yellowing leaves and withering pods, while heavy rains increase bud mortality, disease risks, and impact bean quality. Despite increased exports, persistent supply disruptions, deforestation, aging cacao trees, and soaring cocoa prices are driving companies to seek alternative solutions.\n\nSukanya Nag, Food and Nutrition Consultant at FutureBridge and cocoa expert, shared: “With rising grocery prices, companies are increasingly seeking alternative sources of cocoa to secure supplies amid challenges such as unpredictable weather, deforestation, and aging cacao trees.” While cultured ingredients are “gaining traction,” she explained that replacing traditional cocoa entirely remains unlikely due to practical limitations, highlighting the need to advance cell culture methods to enhance scalability and product development.\n\nRead the [article](https://www.foodmanufacture.co.uk/Article/2025/01/10/challenges-in-cocoa-farming-are-fuelling-investment-into-cocoa-alternatives/) for Sukanya’s insights and more: ",
+        "date": "2025-03-21",
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "The Food Manufacture Explores Why Chocolate",
+          "metaDescription": "The Food Manufacture Explores Why Chocolate Makers are Seeking Cocoa Alternatives",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        },
+        "featuredImage": {
+          "alternativeText": null,
+          "height": 696,
+          "width": 1000,
+          "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2312123235_4f24eac403.jpg"
+        }
+      }
+    ]
+  }
+}

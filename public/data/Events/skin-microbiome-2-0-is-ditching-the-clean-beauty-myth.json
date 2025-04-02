@@ -1,0 +1,31 @@
+{
+  "data": {
+    "events": [
+      {
+        "title": " Skin Microbiome 2.0 is Ditching the Clean Beauty Myth",
+        "slug": "skin-microbiome-2-0-is-ditching-the-clean-beauty-myth",
+        "excerpts": null,
+        "postType": "event",
+        "public": true,
+        "eventDate": "2025-03-19",
+        "eventDescription": "<p>For decades, the beauty industry has treated squeaky-clean skin as the gold standard. But that approach has been fundamentally challenged. A new understanding of microbiome diversity is transforming skincare—moving beyond conventional formulations to precision-driven solutions that actively enhance skin health at a microbial level.</p>",
+        "eventLocation": "Webinar at your desk",
+        "eventRegistrationURL": "https://events.futurebridge.com/skin-microbiome-2.0-is-ditching-the-clean-beauty-myth",
+        "addEventToHome": true,
+        "postEventDetailsURL": null,
+        "timeZone": "2.00 PM IST",
+        "taxonomy": {
+          "industry": "{\"value\":\"Mobility\",\"label\":\"Mobility\"}",
+          "sgf": null,
+          "secondaryTaxonomy": []
+        },
+        "featuredImage": {
+          "alternativeText": null,
+          "height": 175,
+          "width": 300,
+          "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2325201235_300x175_1_9dd6727f03.jpg"
+        }
+      }
+    ]
+  }
+}

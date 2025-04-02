@@ -1,0 +1,45 @@
+{
+  "data": {
+    "webinars": [
+      {
+        "title": "Role of Recycling in the Wind, Energy Storage, and Hydrogen Industries",
+        "slug": "role-of-recycling-in-the-wind-energy-storage-and-hydrogen-industries",
+        "vimeoVideoId": "1012755774",
+        "public": true,
+        "excrept": "Explore how recycling is transforming wind energy, energy storage, and hydrogen industries into more sustainable and efficient sectors.",
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "Role of Recycling in the Wind, Energy Storage, and Hydrogen",
+          "metaDescription": "Explore how recycling is transforming wind energy, energy storage, and hydrogen industries into more sustainable and efficient sectors.",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        },
+        "featuredImage": {
+          "alternativeText": null,
+          "height": 191,
+          "width": 300,
+          "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2470784867_300x191_1_dae1ba7850.jpg"
+        },
+        "postType": "webinar",
+        "showOurClients": true,
+        "showBottomBanner": true,
+        "taxonomy": {
+          "sgf": null,
+          "industry": "{\"value\":\"Energy\",\"label\":\"Energy\"}",
+          "secondaryTaxonomy": []
+        },
+        "content": [
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<p>Explore how recycling is transforming wind energy, energy storage, and hydrogen industries into more sustainable and efficient sectors.</p><p><strong>Key Takeaways:</strong></p><ul><li>Onshore wind capacity has quadrupled since 2010, surpassing 1,000 GW in 2023, leading to significant wind blade waste; recycling these materials is essential.</li><li>Advanced recycling methods recover valuable materials from wind turbine blades, supporting new turbine production and reducing environmental impact.</li><li>Lithium-ion battery demand is surging, risking a 36 million ton lithium shortage by 2050; recycling batteries is critical to meet demand and reduce reliance on finite resources.</li><li>Innovative battery recycling technologies promise higher efficiency and lower environmental impact.</li><li>The green hydrogen market is projected to reach $63 billion by 2032; recycling platinum and iridium can reduce raw material demand by up to 86% by 2060.</li><li>Implementing recycling strategies in hydrogen production cuts costs, energy usage, and greenhouse gas emissions significantly.</li></ul><p>Gain actionable strategies to harness recycling for sustainable growth in renewable energy.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "data": {
+    "clientVideos": [
+      {
+        "title": "Total:Walter Vermeiren (Head of Technology & Scientific Intelligence)",
+        "slug": "total-walter-vermeiren-head-of-technology-and-scientific-intelligence",
+        "orderNo": 2,
+        "intervieweeName": "Walter Vermeiren",
+        "designationOfInterviewee": "Head of Technology & Scientific Intelligence",
+        "postType": "client_video",
+        "excerpts": "Total:Walter Vermeiren (Head of Technology & Scientific Intelligence)",
+        "showOurClients": true,
+        "showBottomBanner": true,
+        "vimeoVideoId": "40138584e2",
+        "videoImage": {
+          "alternativeText": null,
+          "height": 534,
+          "width": 954,
+          "url": "https://dev-strapi.futurebridge.com/uploads/Website_picture_Total_2_319ab1243b.webp"
+        },
+        "taxonomy": {
+          "industry": "{\"value\":\"Industrial Equipment\",\"label\":\"Industrial Equipment\"}",
+          "sgf": null,
+          "secondaryTaxonomy": []
+        },
+        "public": true,
+        "featuredImage": null,
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "Total:Walter Vermeiren ",
+          "metaDescription": "Total:Walter Vermeiren (Head of Technology & Scientific Intelligence)",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        }
+      }
+    ]
+  }
+}

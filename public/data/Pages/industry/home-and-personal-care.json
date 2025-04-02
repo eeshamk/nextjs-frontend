@@ -1,0 +1,367 @@
+{
+  "data": {
+    "pages": [
+      {
+        "title": "Home & Personal Care ",
+        "slug": "home-and-personal-care",
+        "parentPage": null,
+        "subPages": [],
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "Home & Personal Care",
+          "metaDescription": "Consumer Convenience. Sustainability. Technology Enabled Solutions.",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        },
+        "blocks": [
+          {
+            "__typename": "ComponentBlocksBannerContent",
+            "heading": "Home & Personal Care",
+            "subHeading": "Consumer Convenience. Sustainability. Technology Enabled Solutions.",
+            "textPosition": "center",
+            "bannerSize": "large",
+            "background": {
+              "width": 996,
+              "height": 400,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/HPC_shutterstock_1955021482_1_52a13cae49.jpg",
+              "previewUrl": null
+            },
+            "bannerButtonName": null,
+            "bannerButtonLink": null,
+            "isbannerButtonLinkExternal": false,
+            "bannerButtonTarget": "self",
+            "bannerButtonVariant": "Primary"
+          },
+          {
+            "__typename": "ComponentBlocksStickySubMenu",
+            "menuLabel": "Overview",
+            "menuLink": "#overview",
+            "menuTarget": "self",
+            "isMenuLinkExternal": false,
+            "stickyMenus": [
+              {
+                "menuLabel": "Industry Participants",
+                "menuLink": "#industry-participants",
+                "menuTarget": "self",
+                "isMenuLinkExternal": false
+              },
+              {
+                "menuLabel": "Our Solutions",
+                "menuLink": "#our-solutions",
+                "menuTarget": "self",
+                "isMenuLinkExternal": false
+              },
+              {
+                "menuLabel": "Personal Care Intelligence Platform",
+                "menuLink": "https://platform.futurebridge.com/personal-care",
+                "menuTarget": "blank",
+                "isMenuLinkExternal": true
+              }
+            ]
+          },
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<p style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book !important;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;orphans:2;outline:0px;padding:0px 0px 1em;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;word-spacing:0px;\">The Home and Personal Care industry has traditionally been exposed to rapid disruptions and the global pandemic has further brought in new layers of complexity to the mix. Industry players are constantly tackling multiple areas such as ever-changing consumer behavior, the need for sustainable offerings, and evolving competitive threats – through a focus on tailored innovation, agile portfolio management, newer business models, and tapping digitalization as a core enabler of growth.</p><p style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book !important;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;orphans:2;outline:0px;padding:0px;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;word-spacing:0px;\">FutureBridge supports the Home &amp; Personal Care industry with its extensive techno-commercial experience and ecosystem network to help companies in developing growth strategies in sync with consumer needs, sustainable goals, and future disruptions.</p>"
+          },
+          {
+            "__typename": "ComponentBlocksPostContent2ColumnLayout",
+            "postComponentVariant": "Image_on_top_with_title_and_content_below",
+            "post_1": {
+              "postTitle": "Autonomous Haulage Systems – The Future of Mining Operations",
+              "postSlug": "autonomous-haulage-systems-the-future-of-mining-operations",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 400,
+                "width": 400,
+                "url": "https://dev-strapi.futurebridge.com/uploads/996x400_WS_Article_Autonomous_Haulage_Systems1_400x400_1_484d09ec18.jpg"
+              },
+              "contentType": "articles"
+            },
+            "post_2": {
+              "postTitle": "Analyzing Circular Economy Innovations across Packaging, Devices, and Process Landscapes",
+              "postSlug": "analyzing-circular-economy-innovations-across-packaging-devices-and-process-landscapes",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 300,
+                "width": 300,
+                "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2324874197_scaled_e1712755970763_300x300_1_02f5c26897.jpg"
+              },
+              "contentType": "case-studies"
+            }
+          },
+          {
+            "__typename": "ComponentBlocksPostContent4ColumnLayout",
+            "post_1": {
+              "postSlug": "strategic-sustainability-leveraging-materiality-assessment-for-unified-esg-impact",
+              "postTitle": "Strategic Sustainability: Leveraging Materiality Assessment for Unified ESG Impact",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 300,
+                "width": 300,
+                "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2141340219_scaled_e1698675015842_300x300_bfe55cb126.jpg"
+              },
+              "contentType": "articles"
+            },
+            "post_2": {
+              "postSlug": "start-ups-landscape-anti-aging-and-personalization",
+              "postTitle": "Start-ups Landscape – Anti-aging & Personalization",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 349,
+                "width": 540,
+                "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_485736517_540x349_1_c266e6c428.jpg"
+              },
+              "contentType": "case-studies"
+            },
+            "post_3": {
+              "postSlug": "closing-the-400-gwh-gap-how-the-us-europe-are-reshaping-the-li-battery-value-chain",
+              "postTitle": "Electrifying the Future: How is the Li-Battery Value Chain Evolving in the US and Europe?",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 169,
+                "width": 300,
+                "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2336751257_300x169_1_2832bf1a2e.jpg"
+              },
+              "contentType": "research-reports"
+            },
+            "post_4": {
+              "postSlug": "eyes-on-emissions-monitoring-co-2-across-the-ccus-value-chain",
+              "postTitle": "Eyes on Emissions: Monitoring CO2 Across the CCUS Value Chain",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 171,
+                "width": 300,
+                "url": "https://dev-strapi.futurebridge.com/uploads/Eyes_on_Emission_1_300x171_1_a2615391b7.jpg"
+              },
+              "contentType": "webinars"
+            }
+          },
+          {
+            "__typename": "ComponentBlocksButton",
+            "buttonName": "View More",
+            "buttonLink": "https://www.futurebridge.com/perspectives?ind=home-and-personal-care&sgf=",
+            "isExternal": false,
+            "target": "self",
+            "variant": "Primary"
+          },
+          {
+            "__typename": "ComponentBlocksImageAndTextClickable",
+            "heading": "FutureBridge Personal Care Intelligence Platform",
+            "description": "<p>It is purpose-built for innovation and business decision-making for brands and manufacturers operating in the Personal Care space.<br>With each player across the value chain in mind, it is designed to provide:</p><ul><li>Comprehensive insights: Stay updated on the personal care industry. </li><li>Trend analytics: Gain in-depth market dynamics insights. </li><li>Competitor and Startup tracking: Stay ahead by monitoring rivals and startups.</li><li>Discover emerging concepts: Identify potential industry disruptors. </li><li>Unearth opportunities: Find innovation and business prospects. </li><li>Leverage early innovations: Use early signals for precise decision-making.</li></ul><h4 style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularStd, &quot;Open Sans&quot;;font-size:30px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;letter-spacing:normal;line-height:1.2;margin:0px !important;orphans:2;padding:0px 0px 18px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"><strong>Transform your Business. Build the Future.</strong></h4>",
+            "buttonLabel": "Learn more",
+            "buttonURL": "https://platform.futurebridge.com/personal-care",
+            "buttontarget": "self",
+            "isButtonUrlExternal": false,
+            "buttonTheme": "Text_left_Image_right",
+            "backgroundImage": {
+              "width": 1300,
+              "height": 1000,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/mobility_insider_b7b7fcdb9b.jpg",
+              "previewUrl": null
+            }
+          },
+          {
+            "__typename": "ComponentBlocksIndustryParticipants",
+            "heading": "Industry Participants",
+            "subHeading": null,
+            "leftIcon": null,
+            "rightIcon": null,
+            "industryParticipantsButtonName": "Home Care",
+            "industryParticipantsButtonLink": "Home Care",
+            "industryParticipantsButtonLinkExternal": false,
+            "industryParticipantsButtonTarget": "self",
+            "caption": null,
+            "backgroundImage": null,
+            "industryParticipantsButtonVariant": "Standard",
+            "industryItems": [
+              {
+                "buttonName": "Personal Care",
+                "buttonLink": "https://www.futurebridge.com/home-personal-care/personal-care/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": null
+              }
+            ]
+          },
+          {
+            "__typename": "ComponentBlocksOurSolutions",
+            "heading": "Our Solutions",
+            "futureOfColum": {
+              "title": "Future of",
+              "futureOfIcons": [
+                {
+                  "iconCaption": "Industries",
+                  "icon": {
+                    "width": 40,
+                    "height": 40,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/ic_Industries_5c772ef2bd.svg",
+                    "previewUrl": null
+                  }
+                },
+                {
+                  "iconCaption": "Technology",
+                  "icon": {
+                    "width": 40,
+                    "height": 40,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/ic_Technologies_2_11_e2b3f95d13.svg",
+                    "previewUrl": null
+                  }
+                },
+                {
+                  "iconCaption": "Markets",
+                  "icon": {
+                    "width": 40,
+                    "height": 40,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/ic_Markets_1_11_0bb4cf53f1.svg",
+                    "previewUrl": null
+                  }
+                },
+                {
+                  "iconCaption": "Business Model",
+                  "icon": {
+                    "width": 40,
+                    "height": 40,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/ic_Business_11_fd27269867.svg",
+                    "previewUrl": null
+                  }
+                },
+                {
+                  "iconCaption": "Competition",
+                  "icon": {
+                    "width": 40,
+                    "height": 40,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/ic_Competition_1_11_cd053f33b4.svg",
+                    "previewUrl": null
+                  }
+                },
+                {
+                  "iconCaption": "Regulations",
+                  "icon": {
+                    "width": 40,
+                    "height": 40,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/ic_Regulations_1_11_a9284918a4.svg",
+                    "previewUrl": null
+                  }
+                }
+              ]
+            },
+            "description": "<p><span style=\"color:rgb(0,0,0);font-family:CircularTT-Book;font-size:18px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Our solutions combine a unique blend of research, consulting, and hyper-intelligence industry &amp; technology platforms for deep insights</span></span><br><span style=\"color:rgb(0,0,0);font-family:CircularTT-Book;font-size:18px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">With our techno-commercial acumen, we unearth growth opportunities, connect technologies with markets and deliver business impact</span></span></p>",
+            "ourSolutionDescription": [
+              {
+                "ourSolutionItems": [
+                  {
+                    "title": "Foresight & Weak Signals",
+                    "description": "<ul><li>Emerging trends</li><li>Early signals</li><li>Anticipation of future impact</li><li>Scenarios</li><li>Tipping points</li></ul>"
+                  },
+                  {
+                    "title": "Key Industry Trends & Exponential Technologies",
+                    "description": "<ul><li>Trends deconstruction</li><li>Underlying technologies’ mapping</li><li>Digital and platform technologies</li><li>Technology convergence</li><li>Use-cases and whitespaces</li><li>Impact analysis</li></ul>"
+                  },
+                  {
+                    "title": "Technology Landscape & Deep Dive",
+                    "description": "<ul><li>Technology intelligence</li><li>Idea funnel management</li><li>Functionality mapping</li><li>Impact assessment</li><li>Adjacency and convergence</li><li>Techno-commercial benchmarking</li></ul>"
+                  },
+                  {
+                    "title": "Markets & Regulations Assessment",
+                    "description": "<ul><li>Technology intelligence</li><li>Idea funnel management</li><li>Functionality mapping</li><li>Impact assessment</li><li>Adjacency and convergence</li><li>Techno-commercial benchmarking</li></ul>"
+                  },
+                  {
+                    "title": "Technology Roadmaps & Horizon Planning",
+                    "description": "<ul><li>Needs mapping and gap analysis</li><li>Drivers and barriers</li><li>Innovation concepts</li><li>Technology alternatives and enablers</li><li>Milestones and timelines</li></ul>"
+                  },
+                  {
+                    "title": "Business Disruption Monitoring & Opportunity Radar",
+                    "description": "<ul><li>Competitive Intelligence</li><li>Market adjacency</li><li>Unmet needs &amp; whitespaces</li><li>Business model innovation</li><li>New ecosystems &amp; partners</li><li>Emerging threats matrix</li></ul>"
+                  }
+                ]
+              },
+              {
+                "ourSolutionItems": [
+                  {
+                    "title": "Solutions Scouting & Benchmarking",
+                    "description": "<ul><li>Differentiated technologies and innovations</li><li>Business model options</li><li>Key enablers</li><li>Competencies assessment</li></ul>"
+                  },
+                  {
+                    "title": "Technology, Market & Business Model Evaluation",
+                    "description": "<ul><li>Technology screening</li><li>Applications scouting</li><li>Tech availability &amp; value proposition</li><li>Assess promising markets</li><li>Best-fit business models</li><li>Route-to-market strategy</li></ul>"
+                  },
+                  {
+                    "title": "Innovation Pipeline Development",
+                    "description": "<ul><li>Innovation concepts</li><li>Feasibility evaluations</li><li>360-degree key opinion leader panels</li><li>Opportunity roadmaps</li><li>Minimum viable solution plans</li><li>“Lean Start-up” Solution Innovation</li></ul>"
+                  },
+                  {
+                    "title": "Partner & Supplier Identification & Assessment",
+                    "description": "<ul><li>Access to unique technology &amp; markets</li><li>Supplier &amp; solution provider landscape</li><li>Target prioritization and&nbsp;selection</li><li>Techno-economic screening</li><li>SWOT and risk mitigation</li><li>Corporate venturing deal flow</li></ul>"
+                  },
+                  {
+                    "title": "Business Continuity: Key Data, Competitive Positioning, and Customer Analysis",
+                    "description": "<ul><li>Ongoing monitoring of select technologies &amp; target markets</li><li>Ecosystem and competition monitoring</li><li>Key data points dashboard</li><li>Periodic Red Team reviews</li><li>Operational excellence support</li></ul>"
+                  }
+                ]
+              },
+              {
+                "ourSolutionItems": [
+                  {
+                    "title": "Partner/Supplier Collaboration & M&A Support",
+                    "description": "<ul><li>Meeting facilitation with potential partners/suppliers</li><li>Strategic fitment assessment</li><li>Deal facilitation</li></ul>"
+                  },
+                  {
+                    "title": "Technology Adoption",
+                    "description": "<ul><li>In Depth Technology Mapping</li><li>Value Proposition Assessment</li><li>Technology &amp; Market Validation</li><li>IP Assessment Strategic fitment assessment</li><li>Partner ecosystem</li><li>Feasibility</li><li>Prototyping support</li><li>Risk profile &amp; mitigation</li></ul>"
+                  },
+                  {
+                    "title": "Technology Commercialization",
+                    "description": "<ul><li>Unique, tailor-made technology transfer concepts</li><li>In-depth technology mapping</li><li>Value proposition assessment</li><li>Market identification &amp; validation</li><li>Business model development</li><li>Sales &amp; marketing of technology</li></ul>"
+                  },
+                  {
+                    "title": "Company / Technology Benchmarking & Due Diligence",
+                    "description": "<ul><li>Tech health card</li><li>Strategic fit analysis</li><li>Value proposition Analysis</li><li>Risk analysis</li></ul>"
+                  },
+                  {
+                    "title": "Technology Implementation Ecosystems",
+                    "description": "<ul><li>Looks like-Works like Prototyping</li><li>Channel partners</li><li>Testing labs</li><li>System Integrator</li><li>Serial production</li></ul>"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "__typename": "ComponentBlocksPromotionalBannerCta",
+            "heading": "Need a thought partner?",
+            "subHeading": "Share your focus area or question to engage with our Analysts through the Business Objectives service.",
+            "buttonName": "Submit My Business Objective",
+            "buttonLink": "https://www.futurebridge.com/business-objective",
+            "isExternal": false,
+            "buttonTarget": "self",
+            "buttonVariant": "Primary",
+            "PromotionBannerSize": "Thin",
+            "backgroundImage": {
+              "width": 2560,
+              "height": 480,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/Mask_Group_50_2x_1_458e74b23c.png",
+              "previewUrl": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "data": {
+    "pages": [
+      {
+        "title": "Events",
+        "slug": "events",
+        "parentPage": null,
+        "subPages": [],
+        "showGetInTouchBanner": true,
+        "showOurClients": true,
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "In the Media - FutureBridge",
+          "metaDescription": "Our vision is to connect technologies, ecosystems, industries and markets to propel human enterprise forward. FutureBridge",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        },
+        "blocks": [
+          {
+            "__typename": "ComponentBlocksBannerContent",
+            "heading": "Events",
+            "subHeading": "We’re on the go. See what events FutureBridge will be sponsoring, hosting and attending",
+            "textPosition": "left",
+            "bannerSize": "thin",
+            "background": {
+              "width": 1920,
+              "height": 640,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/Hero_BG_10a56f8f2e.jpg",
+              "previewUrl": null
+            },
+            "bannerButtonName": null,
+            "bannerButtonLink": null,
+            "isbannerButtonLinkExternal": false,
+            "bannerButtonTarget": "self",
+            "bannerButtonVariant": "Primary"
+          }
+        ]
+      }
+    ]
+  }
+}

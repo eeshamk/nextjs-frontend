@@ -1,0 +1,32 @@
+{
+  "data": {
+    "clientVideos": [
+      {
+        "title": "AirBus:Jean Botti (Ex CTO - Airbus)",
+        "slug": "air-bus-jean-botti-ex-cto-airbus",
+        "orderNo": 1,
+        "intervieweeName": "Jean Botti",
+        "designationOfInterviewee": "Ex CTO - Airbus",
+        "postType": "client_video",
+        "excerpts": "AirBus:Jean Botti (Ex CTO - Airbus)",
+        "showOurClients": true,
+        "showBottomBanner": true,
+        "vimeoVideoId": "731977253",
+        "videoImage": {
+          "alternativeText": null,
+          "height": 741,
+          "width": 1340,
+          "url": "https://dev-strapi.futurebridge.com/uploads/excto_1_4d80218ea6.webp"
+        },
+        "taxonomy": {
+          "industry": "{\"value\":\"Mobility\",\"label\":\"Mobility\"}",
+          "sgf": null,
+          "secondaryTaxonomy": []
+        },
+        "public": true,
+        "featuredImage": null,
+        "seo": null
+      }
+    ]
+  }
+}

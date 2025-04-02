@@ -1,0 +1,47 @@
+{
+  "data": {
+    "pages": [
+      {
+        "title": "In the Media",
+        "slug": "in-the-media",
+        "parentPage": null,
+        "subPages": [],
+        "showGetInTouchBanner": true,
+        "showOurClients": true,
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "In the Media - FutureBridge",
+          "metaDescription": "Our vision is to connect technologies, ecosystems, industries and markets to propel human enterprise forward. FutureBridge",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        },
+        "blocks": [
+          {
+            "__typename": "ComponentBlocksBannerContent",
+            "heading": "In the Media",
+            "subHeading": null,
+            "textPosition": "left",
+            "bannerSize": null,
+            "background": {
+              "width": 2336,
+              "height": 742,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/Future_Bridge_In_the_media_1_1_bc3c7ff7c7.jpg",
+              "previewUrl": null
+            },
+            "bannerButtonName": null,
+            "bannerButtonLink": null,
+            "isbannerButtonLinkExternal": false,
+            "bannerButtonTarget": "self",
+            "bannerButtonVariant": "Primary"
+          }
+        ]
+      }
+    ]
+  }
+}

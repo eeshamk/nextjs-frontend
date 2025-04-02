@@ -1,0 +1,35 @@
+{
+  "data": {
+    "researchReports": [
+      {
+        "title": "Key Insights into Non-Small Cell Lung Cancer (NSCLC) and Breast Cancer",
+        "slug": "non-small-cell-lung-cancer-and-breast-cancer-insights-asco-annual-meeting",
+        "public": true,
+        "createdAt": "2025-03-05T17:24:28.710Z",
+        "reportType": "research_form",
+        "emailRecepients": "info@futurebridge.com,contact@futurebridge.com",
+        "seo": null,
+        "featuredImage": {
+          "alternativeText": null,
+          "height": 300,
+          "width": 300,
+          "url": "https://dev-strapi.futurebridge.com/uploads/national_cancer_institute_Lnv_CEX_Qw_C_o_unsplash_300x300_1_aad67b2c73.jpg"
+        },
+        "showOurClients": true,
+        "showBottomBanner": true,
+        "postType": "research_report",
+        "taxonomy": {
+          "industry": "{\"value\":\"Home & Personal Care\",\"label\":\"Home & Personal Care\"}",
+          "sgf": null,
+          "secondaryTaxonomy": []
+        },
+        "content": [
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:24px;margin-bottom:1.6em;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" data-start=\"254\" data-end=\"651\">Our comprehensive post-conference report from ASCO 2024 offers detailed insights into the latest clinical trials and treatment developments in Non-Small Cell Lung Cancer (NSCLC) and Breast Cancer. This report is designed for oncologists, researchers, and healthcare professionals seeking to stay informed on the current trends and evolving treatment landscapes in these critical areas of oncology.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:24px;margin-bottom:1.6em;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" data-start=\"653\" data-end=\"1258\"><strong data-start=\"653\" data-end=\"692\">Non-Small Cell Lung Cancer (NSCLC):</strong><br>The report provides an in-depth look at pivotal trials such as the EVOKE-01 study, which evaluates Sacituzumab Govitecan versus Docetaxel for patients with metastatic NSCLC who have progressed after platinum-based chemotherapy and PD(L)-1 inhibitors. Key findings from this study suggest potential improvements in overall survival for non-responders to PD(L)-1 therapy, highlighting significant unmet needs in the NSCLC space. Additionally, the report examines emerging treatment strategies and the role of combination therapies in addressing PD(L)-1 progressors.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:24px;margin-bottom:1.6em;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" data-start=\"1260\" data-end=\"1805\"><strong data-start=\"1260\" data-end=\"1278\">Breast Cancer:</strong><br>For Breast Cancer, the report includes focus on advancements in the treatment of HR+, HER2- advanced Breast Cancer, particularly following progression on CDK4/6 inhibitors. The postMONARCH study shows how combining Abemaciclib with Fulvestrant extends progression-free survival (PFS) in this patient population. Furthermore, the DESTINY-Breast06 trial reveals the benefits of Trastuzumab Deruxtecan in HER2-low/-ultralow metastatic breast cancer, offering potential new treatment options for patients previously limited by traditional therapies.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:24px;margin-bottom:1.6em;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" data-start=\"1807\" data-end=\"2041\">With a focus on the latest data, trial outcomes, and expert analysis, this report is an invaluable resource for professionals seeking to understand the evolving treatment options and future directions in NSCLC and Breast Cancer care. To gain more such insights and learn about innovations, <a style=\"color:rgb(51, 51, 51);font-family:CircularTT-Book !important;text-decoration:none;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.futurebridge.com/contact-us/?utm_source=website&amp;utm_medium=report&amp;utm_campaign=industry%2Fperspectives-life-sciences%2Fnon-small-cell-lung-cancer-and-breast-cancer-insights-asco-annual-meeting%2F#business-objective\">contact our experts</a></p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:24px;margin-bottom:1.6em;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" data-start=\"2043\" data-end=\"2203\" data-is-last-node=\"\" data-is-only-node=\"\">Access the full report to gain a clearer perspective on these significant findings from ASCO 2024 and their implications for patient care and clinical practice.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}

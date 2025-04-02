@@ -1,0 +1,55 @@
+{
+  "data": {
+    "caseStudies": [
+      {
+        "title": "Start-ups Landscape – Anti-aging & Personalization",
+        "slug": "start-ups-landscape-anti-aging-and-personalization",
+        "excerpts": "The client wanted to have a complete scenario of technology/ research work that start-ups/ spin-offs (hereinafter, “start-ups”) are doing in the field of aging and personalization. This includes different types of aging solutions/ technologies (diagnostic, preventive, therapeutic, reversal) developed by start-ups and used to reduce the aging effects",
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "Start-ups Landscape – Anti-aging & Personalization",
+          "metaDescription": "The client wanted to have a complete scenario of technology/ research work that start-ups/ spin-offs (hereinafter, “start-ups”) ",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        },
+        "featuredImage": {
+          "alternativeText": null,
+          "height": 349,
+          "width": 540,
+          "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_485736517_540x349_1_c266e6c428.jpg"
+        },
+        "public": true,
+        "postType": "case_study",
+        "showBottomBanner": true,
+        "showOurClients": true,
+        "taxonomy": {
+          "sgf": null,
+          "industry": "{\"value\":\"Home & Personal Care\",\"label\":\"Home & Personal Care\"}",
+          "secondaryTaxonomy": []
+        },
+        "content": [
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-family:CircularTT-Book;font-size:16px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">The client wanted to have a complete scenario of technology/ research work that start-ups/ spin-offs (hereinafter, “start-ups”) are doing in the field of aging and personalization. This includes different types of aging solutions/ technologies (diagnostic, preventive, therapeutic, reversal) developed by start-ups and used to reduce the aging effects</span></span></p>"
+          },
+          {
+            "__typename": "ComponentBlocksPdfCb",
+            "title": "Start-ups Landscape – Anti-aging & Personalization",
+            "document": {
+              "width": null,
+              "height": null,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/CS_Start_up_Landscape_Anti_aging_Personalization_1_fb05ac896d.pdf",
+              "previewUrl": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": {
+    "pages": [
+      {
+        "title": "Perspectives",
+        "slug": "perspectives",
+        "parentPage": null,
+        "subPages": [],
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "Insights, Strategy, Technology Adoption | FutureBridge",
+          "metaDescription": "Our vision is to connect technologies, ecosystems, industries and markets to propel human enterprise forward. FutureBridge",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        },
+        "blocks": [
+          {
+            "__typename": "ComponentBlocksBannerContent",
+            "heading": "Perspectives",
+            "subHeading": "Explore Strategic growth fields, hot topics and insights",
+            "textPosition": "center",
+            "bannerSize": "large",
+            "background": {
+              "width": 1280,
+              "height": 448,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/mitosis_3876669_1920_e97efac7f2.jpg",
+              "previewUrl": null
+            },
+            "bannerButtonName": null,
+            "bannerButtonLink": null,
+            "isbannerButtonLinkExternal": false,
+            "bannerButtonTarget": "self",
+            "bannerButtonVariant": "Primary"
+          },
+          {
+            "__typename": "ComponentBlocksPromotionalBannerCta",
+            "heading": "Need a thought partner?",
+            "subHeading": "Share your focus area or question to engage with our Analysts through the Business Objectives service.",
+            "buttonName": "Submit My Business Objective",
+            "buttonLink": "https://www.futurebridge.com/business-objective",
+            "isExternal": false,
+            "buttonTarget": "self",
+            "buttonVariant": "Primary",
+            "PromotionBannerSize": "Thin",
+            "backgroundImage": {
+              "width": 2560,
+              "height": 480,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/Mask_Group_50_2x_1_458e74b23c.png",
+              "previewUrl": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

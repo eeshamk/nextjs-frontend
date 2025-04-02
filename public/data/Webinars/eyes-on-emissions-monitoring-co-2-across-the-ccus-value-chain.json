@@ -1,0 +1,45 @@
+{
+  "data": {
+    "webinars": [
+      {
+        "title": "Eyes on Emissions: Monitoring CO2 Across the CCUS Value Chain",
+        "slug": "eyes-on-emissions-monitoring-co-2-across-the-ccus-value-chain",
+        "vimeoVideoId": "988977548",
+        "public": true,
+        "excrept": "In the global effort to combat climate change, Carbon Capture, Utilization, and Storage (CCUS) plays a pivotal role. Ensuring precise CO2 emissions monitoring across the CCUS value chain is crucial for operational efficiency, regulatory compliance, and environmental safety.",
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "Eyes on Emissions: Monitoring CO2 Across the CCUS",
+          "metaDescription": "In the global effort to combat climate change, Carbon Capture, Utilization, and Storage (CCUS) plays a pivotal role.",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        },
+        "featuredImage": {
+          "alternativeText": null,
+          "height": 171,
+          "width": 300,
+          "url": "https://dev-strapi.futurebridge.com/uploads/Eyes_on_Emission_1_300x171_1_a2615391b7.jpg"
+        },
+        "postType": "webinar",
+        "showOurClients": true,
+        "showBottomBanner": true,
+        "taxonomy": {
+          "sgf": null,
+          "industry": "{\"value\":\"Energy\",\"label\":\"Energy\"}",
+          "secondaryTaxonomy": []
+        },
+        "content": [
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<p>In the global effort to combat climate change, Carbon Capture, Utilization, and Storage (CCUS) plays a pivotal role. Ensuring precise CO2 emissions monitoring across the CCUS value chain is crucial for operational efficiency, regulatory compliance, and environmental safety.</p><p>FutureBridge hosted an exclusive webinar in collaboration with <strong>Oliver Bornholdt</strong> from <strong>Dräger&nbsp;</strong>to highlight advanced CO2 monitoring and detection technologies and practical strategies for seamless integration with various real-word applications.</p><p>What we covered in this webinar:</p><ul><li>Innovations in flow rate, phase and pressure measurement, and leakage detection.</li><li>Practical approaches for incorporating advanced monitoring systems into existing infrastructures to enhance efficiency and compliance.</li><li>Real-world applications, challenges, and success stories in the CCUS sector.</li></ul>"
+          }
+        ]
+      }
+    ]
+  }
+}

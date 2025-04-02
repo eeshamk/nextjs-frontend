@@ -1,0 +1,331 @@
+{
+  "data": {
+    "pages": [
+      {
+        "title": "About ",
+        "slug": "about",
+        "parentPage": null,
+        "subPages": [],
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "Insights, Strategy, Technology Adoption | FutureBridge",
+          "metaDescription": "Our vision is to connect technologies, ecosystems, industries and markets to propel human enterprise forward. FutureBridge",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": null
+        },
+        "blocks": [
+          {
+            "__typename": "ComponentBlocksBannerContent",
+            "heading": "Get to know us",
+            "subHeading": null,
+            "textPosition": "left",
+            "bannerSize": "large",
+            "background": {
+              "width": 1920,
+              "height": 640,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/About_Us_Banner_2_ce61e064a6.jpg",
+              "previewUrl": null
+            },
+            "bannerButtonName": null,
+            "bannerButtonLink": null,
+            "isbannerButtonLinkExternal": false,
+            "bannerButtonTarget": "self",
+            "bannerButtonVariant": "Primary"
+          },
+          {
+            "__typename": "ComponentBlocksHeading",
+            "text": "Independent. Intelligent. In the know."
+          },
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<h3 style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:rgb(0, 0, 0);display:block !important;font-family:CircularTT-Bold !important;font-size:28px !important;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:500;letter-spacing:normal;line-height:1em;margin:0px;orphans:2;outline:0px;padding:0px 0px 10px;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;word-spacing:0px;\">FutureBridge tracks and advises on the future of industries from a 1-to-25 year perspective.</h3><p style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book !important;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;orphans:2;outline:0px;padding:0px 0px 1em;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;word-spacing:0px;\"><span style=\"background-color:transparent;color:rgb(102,102,102);\"><span style=\"-webkit-font-smoothing:antialiased;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">We start by seeing your world through the twin lenses of leading-edge commerce and innovation, with the sharpest view of technology and its impact on businesses.&nbsp;</span></span></p><p style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book !important;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;orphans:2;outline:0px;padding:0px 0px 1em;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;word-spacing:0px;\"><span style=\"background-color:transparent;color:rgb(102,102,102);\"><span style=\"-webkit-font-smoothing:antialiased;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">We keep you ahead on the technology curve, propel your growth, identify new opportunities, markets and business models, answer your unknowns, and facilitate best-fit solutions and partnerships using our platforms, programs, and access to global ecosystems and players.</span></span></p>"
+          },
+          {
+            "__typename": "ComponentBlocksButton",
+            "buttonName": "Our Offer",
+            "buttonLink": "https://www.futurebridge.com/solutions",
+            "isExternal": false,
+            "target": "self",
+            "variant": "Primary"
+          },
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<div class=\"et_pb_module et_pb_text et_pb_text_2 et_pb_text_align_left et_pb_bg_layout_light\" style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;animation-duration:0.2s;animation-timing-function:linear;background-color:rgb(244, 244, 244);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:auto auto 33px;max-width:100%;orphans:2;outline:0px;overflow-wrap:break-word;padding:0px;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;width:1200.14px;word-spacing:0px;\"><div class=\"et_pb_text_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><h2 style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:inherit;display:block;font-family:CircularTT-Bold !important;font-size:44px !important;font-style:normal;font-weight:500;letter-spacing:inherit;line-height:1em;margin:0px;outline:0px;padding:0px 0px 10px;text-align:inherit;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;\"><b style=\"-webkit-font-smoothing:antialiased;box-sizing:border-box;letter-spacing:inherit;\"><strong>Our Massive Transformative Purpose</strong></b></h2></div></div><div class=\"et_pb_module et_pb_text et_pb_text_3 et_pb_text_align_left et_pb_bg_layout_light\" style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;animation-duration:0.2s;animation-timing-function:linear;background-color:rgb(244, 244, 244);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:auto auto 0px;max-width:100%;orphans:2;outline:0px;overflow-wrap:break-word;padding:0px;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;width:1200.14px;word-spacing:0px;\"><div class=\"et_pb_text_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><h3 style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:inherit;display:block !important;font-family:CircularTT-Bold !important;font-size:28px !important;font-style:normal;font-weight:500;letter-spacing:inherit;line-height:1em;margin:0px;outline:0px;padding:0px 0px 10px;text-align:inherit;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;\">​Connecting Technologies and Markets to Propel Human Enterprise Forward</h3></div></div>"
+          },
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<div class=\"et_pb_module et_pb_text et_pb_text_4 lbl-Text et_pb_text_align_left et_pb_bg_layout_light\" style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;animation-duration:0.2s;animation-timing-function:linear;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:auto auto 41.9062px;max-width:80%;orphans:2;outline:0px;overflow-wrap:break-word;padding:0px;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;width:1219.19px;word-spacing:0px;\"><div class=\"et_pb_text_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><h2 style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:inherit;display:block;font-family:CircularTT-Bold !important;font-size:44px !important;font-style:normal;font-weight:500;letter-spacing:inherit;line-height:1em;margin:0px;outline:0px;padding:0px 0px 10px;text-align:inherit;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;\"><strong style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">Truly Exponential</strong></h2></div></div><div class=\"et_pb_module et_pb_text et_pb_text_5 et_pb_text_align_left et_pb_bg_layout_light\" style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;animation-duration:0.2s;animation-timing-function:linear;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:auto auto 0px;max-width:80%;orphans:2;outline:0px;overflow-wrap:break-word;padding:0px;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;width:1219.19px;word-spacing:0px;\"><div class=\"et_pb_text_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><p style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit !important;font-family:CircularTT-Book !important;letter-spacing:inherit;margin:0px;outline:0px;padding:0px 0px 1em;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">We are truly exponential. Early on, we have embraced new technologies to create a completely digital workplace where teams distributed around the world work seamlessly across the virtual &amp; physical environment. Our teams operate digitally as they would from the office. For us, geography is history!</p><p style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit !important;font-family:CircularTT-Book !important;letter-spacing:inherit;margin:0px;outline:0px;padding:0px 0px 1em;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">Of course, we see the significance of the physical world we live in and the timeless charm and effectiveness of in-person meetings and we are glad to get on the road or meet at our offices to engage with our clients who prefer to do business in person.</p><p style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit !important;font-family:CircularTT-Book !important;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">But digital is our way of being. It gives us the freedom to work with colleagues, experts, communities, and clients all around the world at the drop of a hat. Our digital being allows us to work with the best minds in the world to deliver value to our clients. New technologies have ensured that we always ‘See’ each other when we interact. We invest the time that we save navigating the physical world to spend more time with our loved ones, work with each other more productively and deliver value for our clients.</p></div></div>"
+          },
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<h2 style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:rgb(0, 0, 0);display:block;font-family:CircularTT-Bold !important;font-size:44px !important;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:500;letter-spacing:normal;line-height:1em;margin:0px;orphans:2;outline:0px;padding:0px 0px 10px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;word-spacing:0px;\">Who...</h2><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);font-family:CircularTT-Book, sans-serif;font-size:18px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Our 500+ people (and network of over 5000 industry experts) are agile in thought and deed. Cut from a world of different cloth across three continents, they’re united by a relentless curiosity, a desire to solve problems and an appetite for innovation and opportunity.</span></span></p><div class=\"et_pb_column et_pb_column_1_5 et_pb_column_6 et_pb_css_mix_blend_mode_passthrough\" style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);float:left;font-family:CircularTT-Book, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;min-height:1px;mix-blend-mode:unset !important;orphans:2;outline:0px;padding:0px;position:relative;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;width:285.75px;word-spacing:0px;z-index:2;\"><div class=\"et_pb_module et_pb_code et_pb_code_2\" style=\"-webkit-font-smoothing:antialiased;animation-duration:0.2s;animation-timing-function:linear;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"et_pb_code_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"about-count\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;height:200px;letter-spacing:normal;margin:0px;object-fit:cover;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><h2 class=\"stat-number\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:rgb(244, 80, 95) !important;display:block;font-family:CircularTT-Bold !important;font-size:23px;font-style:normal;font-weight:500;letter-spacing:normal;line-height:1em;margin:0px;outline:0px;padding:0px 0px 10px;text-align:inherit;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;\">500</h2><p style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:18px !important;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">Team size across Science, Engineering &amp; Consulting</p></div></div></div></div><div class=\"et_pb_column et_pb_column_1_5 et_pb_column_7 et_pb_css_mix_blend_mode_passthrough\" style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);float:left;font-family:CircularTT-Book, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;min-height:1px;mix-blend-mode:unset !important;orphans:2;outline:0px;padding:0px;position:relative;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;width:285.75px;word-spacing:0px;z-index:2;\"><div class=\"et_pb_module et_pb_code et_pb_code_3\" style=\"-webkit-font-smoothing:antialiased;animation-duration:0.2s;animation-timing-function:linear;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"et_pb_code_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"about-count\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;height:200px;letter-spacing:normal;margin:0px;object-fit:cover;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><h2 class=\"stat-number\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:rgb(244, 80, 95) !important;display:block;font-family:CircularTT-Bold !important;font-size:23px;font-style:normal;font-weight:500;letter-spacing:normal;line-height:1em;margin:0px;outline:0px;padding:0px 0px 10px;text-align:inherit;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;\">5000</h2><p style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:18px !important;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">Global network of industry experts</p></div></div></div></div><div class=\"et_pb_column et_pb_column_1_5 et_pb_column_8 et_pb_css_mix_blend_mode_passthrough\" style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);float:left;font-family:CircularTT-Book, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;min-height:1px;mix-blend-mode:unset !important;orphans:2;outline:0px;padding:0px;position:relative;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;width:285.75px;word-spacing:0px;z-index:2;\"><div class=\"et_pb_module et_pb_code et_pb_code_4\" style=\"-webkit-font-smoothing:antialiased;animation-duration:0.2s;animation-timing-function:linear;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"et_pb_code_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"about-count\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;height:200px;letter-spacing:normal;margin:0px;object-fit:cover;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><h2 class=\"stat-number\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:rgb(244, 80, 95) !important;display:block;font-family:CircularTT-Bold !important;font-size:23px;font-style:normal;font-weight:500;letter-spacing:normal;line-height:1em;margin:0px;outline:0px;padding:0px 0px 10px;text-align:inherit;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;\">200</h2><p style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:18px !important;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">Deep client relationships at Global Fortune 500 corporations</p></div></div></div><div class=\"et_pb_module et_pb_code et_pb_code_5\" style=\"-webkit-font-smoothing:antialiased;animation-duration:0.2s;animation-timing-function:linear;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"et_pb_code_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">&nbsp;</div></div></div><div class=\"et_pb_column et_pb_column_1_5 et_pb_column_9 et_pb_css_mix_blend_mode_passthrough\" style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);float:left;font-family:CircularTT-Book, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;min-height:1px;mix-blend-mode:unset !important;orphans:2;outline:0px;padding:0px;position:relative;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;width:285.75px;word-spacing:0px;z-index:2;\"><div class=\"et_pb_module et_pb_code et_pb_code_6\" style=\"-webkit-font-smoothing:antialiased;animation-duration:0.2s;animation-timing-function:linear;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"et_pb_code_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"about-count\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;height:200px;letter-spacing:normal;margin:0px;object-fit:cover;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><h2 class=\"stat-number\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:rgb(244, 80, 95) !important;display:block;font-family:CircularTT-Bold !important;font-size:23px;font-style:normal;font-weight:500;letter-spacing:normal;line-height:1em;margin:0px;outline:0px;padding:0px 0px 10px;text-align:inherit;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;\">70</h2><p style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:18px !important;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">Clients in over 70 Countries</p></div></div></div></div><div class=\"et_pb_column et_pb_column_1_5 et_pb_column_10 et_pb_css_mix_blend_mode_passthrough et-last-child\" style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);float:left;font-family:CircularTT-Book, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px 0px !important;min-height:1px;mix-blend-mode:unset !important;orphans:2;outline:0px;padding:0px;position:relative;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;width:285.75px;word-spacing:0px;z-index:2;\"><div class=\"et_pb_module et_pb_code et_pb_code_7\" style=\"-webkit-font-smoothing:antialiased;animation-duration:0.2s;animation-timing-function:linear;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"et_pb_code_inner\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:inherit;letter-spacing:normal;margin:0px;outline:0px;padding:0px;position:relative;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><div class=\"about-count\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-bottom-style:none;border-image:initial;border-left-style:none;border-radius:0px;border-right:1px solid rgba(17, 17, 17, 0.1);border-top-style:none;box-shadow:none;box-sizing:border-box;color:inherit;height:200px;letter-spacing:normal;margin:0px;object-fit:cover;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\"><h2 class=\"stat-number\" style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;clear:both;color:rgb(244, 80, 95) !important;display:block;font-family:CircularTT-Bold !important;font-size:23px;font-style:normal;font-weight:500;letter-spacing:normal;line-height:1em;margin:0px;outline:0px;padding:0px 0px 10px;text-align:inherit;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;\">30</h2><p style=\"-webkit-font-smoothing:antialiased;background-color:transparent;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(102, 102, 102) !important;font-family:CircularTT-Book !important;font-size:18px !important;letter-spacing:normal;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">Industries served</p></div></div></div></div>"
+          },
+          {
+            "__typename": "ComponentBlocksImageAndTextNonClickable",
+            "image": {
+              "width": 1920,
+              "height": 600,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/Past_section_bg_1_e55bb5f5fc.jpg",
+              "previewUrl": null
+            },
+            "heading": "Past…",
+            "description": "<p><span style=\"color:rgb(102,102,102);font-family:CircularTT-Book;font-size:18px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:0.22px;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">When we were founded as Cheers Interactive back in the year 2000, the world was a different – and less complex – place. As fears of the ‘Millennium bug’ receded, the touchscreen smartphone was still years away. And universal wifi and machine learning were a distant dream. Over the past two decades, we have tracked each and every one of these changes. And today we’re looking ahead with confidence and commitment.</span></span></p>",
+            "contentVariant": "Text_left_Image_right"
+          },
+          { "__typename": "ComponentBlocksHeading", "text": "Present…" },
+          {
+            "__typename": "ComponentBlocksDescription",
+            "content": "<p style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book !important;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;orphans:2;outline:0px;padding:0px 0px 1em;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;word-spacing:0px;\"><span style=\"background-color:transparent;color:rgb(102,102,102);\"><span style=\"-webkit-font-smoothing:antialiased;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">Informed by deep industry knowledge, today our objective research, analytics and technology adoption acumen is designed to be in synch with you, with services built for progress.&nbsp;</span></span></p><p style=\"-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularTT-Book !important;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;orphans:2;outline:0px;padding:0px;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-shadow:inherit;text-transform:none;transition:none;vertical-align:baseline;white-space:normal;widows:2;word-spacing:0px;\"><span style=\"background-color:transparent;color:rgb(102,102,102);\"><span style=\"-webkit-font-smoothing:antialiased;border-radius:0px;border-style:none;box-shadow:none;box-sizing:border-box;letter-spacing:inherit;margin:0px;outline:0px;padding:0px;text-align:inherit;text-shadow:inherit;transition:none;vertical-align:baseline;\">Work with us for a fresh understanding of markets, technologies, innovations, business models, competitive environment and regulatory landscape – to answer the questions that matter. Because we’re focused on the future, we’ll propel you into the future.</span></span></p>"
+          },
+          {
+            "__typename": "ComponentBlocksBannerContent",
+            "heading": "Lets make the future happen together",
+            "subHeading": null,
+            "textPosition": "center",
+            "bannerSize": "medium",
+            "background": {
+              "width": 1920,
+              "height": 200,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/CTA_Section_BG_1_28a7475985.jpg",
+              "previewUrl": null
+            },
+            "bannerButtonName": "Our Offer",
+            "bannerButtonLink": "https://www.futurebridge.com/solutions",
+            "isbannerButtonLinkExternal": false,
+            "bannerButtonTarget": "self",
+            "bannerButtonVariant": "Primary"
+          },
+          {
+            "__typename": "ComponentBlocksHeading",
+            "text": "Industries we serve"
+          },
+          {
+            "__typename": "ComponentBlocksIndustryParticipants",
+            "heading": null,
+            "subHeading": null,
+            "leftIcon": null,
+            "rightIcon": null,
+            "industryParticipantsButtonName": "Chemicals & Natural Resources",
+            "industryParticipantsButtonLink": "https://www.futurebridge.com/chemicals-and-natural-resources/",
+            "industryParticipantsButtonLinkExternal": false,
+            "industryParticipantsButtonTarget": "self",
+            "caption": null,
+            "backgroundImage": {
+              "width": 604,
+              "height": 220,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/Chemicals_1_1_6cd5a258b2.jpg",
+              "previewUrl": null
+            },
+            "industryParticipantsButtonVariant": "Standard",
+            "industryItems": [
+              {
+                "buttonName": "Energy",
+                "buttonLink": "https://www.futurebridge.com/energy/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": {
+                  "width": 389,
+                  "height": 220,
+                  "alternativeText": null,
+                  "url": "https://dev-strapi.futurebridge.com/uploads/Energy_32add116c0.jpg",
+                  "previewUrl": null
+                }
+              },
+              {
+                "buttonName": "Food & Nutriton",
+                "buttonLink": "https://www.futurebridge.com/food-and-nutrition/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": {
+                  "width": 389,
+                  "height": 220,
+                  "alternativeText": null,
+                  "url": "https://dev-strapi.futurebridge.com/uploads/Food_bb2208ed8f.jpg",
+                  "previewUrl": null
+                }
+              },
+              {
+                "buttonName": "Home Personal Care",
+                "buttonLink": "https://www.futurebridge.com/home-personal-care/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": {
+                  "width": 604,
+                  "height": 220,
+                  "alternativeText": null,
+                  "url": "https://dev-strapi.futurebridge.com/uploads/Mobility_7a16af2366.jpg",
+                  "previewUrl": null
+                }
+              },
+              {
+                "buttonName": "Life Sciences",
+                "buttonLink": "https://www.futurebridge.com/life-sciences/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": {
+                  "width": 604,
+                  "height": 220,
+                  "alternativeText": null,
+                  "url": "https://dev-strapi.futurebridge.com/uploads/Life_science_1_2e80ada6d9.jpg",
+                  "previewUrl": null
+                }
+              },
+              {
+                "buttonName": "Industrial Equipment",
+                "buttonLink": "https://www.futurebridge.com/industrial-equipment/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": {
+                  "width": 604,
+                  "height": 220,
+                  "alternativeText": null,
+                  "url": "https://dev-strapi.futurebridge.com/uploads/Mobility_7a16af2366.jpg",
+                  "previewUrl": null
+                }
+              },
+              {
+                "buttonName": "Mobility",
+                "buttonLink": "https://www.futurebridge.com/mobility/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": {
+                  "width": 604,
+                  "height": 220,
+                  "alternativeText": null,
+                  "url": "https://dev-strapi.futurebridge.com/uploads/Mobility_7a16af2366.jpg",
+                  "previewUrl": null
+                }
+              }
+            ]
+          },
+          {
+            "__typename": "ComponentBlocksClientLogos",
+            "heading": "Our Clients",
+            "subHeading": "Our long-standing clients include some of the worlds leading brands and forward-thinking corporations.",
+            "imageSlider": [
+              {
+                "image": [
+                  {
+                    "width": 366,
+                    "height": 100,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/180906_Wisco_tailored_banks_Mobility_4_dd6cdeae54.webp",
+                    "previewUrl": null
+                  },
+                  {
+                    "width": 1420,
+                    "height": 389,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/Plastics_Industries_Company_ae7786e1c4.webp",
+                    "previewUrl": null
+                  },
+                  {
+                    "width": 954,
+                    "height": 373,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/simens_energy_f05c3c9862.png",
+                    "previewUrl": null
+                  },
+                  {
+                    "width": 366,
+                    "height": 100,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/180906_perstorp_black_Chem_5_02613be28d.webp",
+                    "previewUrl": null
+                  },
+                  {
+                    "width": 366,
+                    "height": 100,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/180906_Grupo_Antolin_Mobility_1_687594707a.webp",
+                    "previewUrl": null
+                  },
+                  {
+                    "width": 366,
+                    "height": 100,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/180906_Wacker_logo_Chem_6_d8b3d6e8c8.webp",
+                    "previewUrl": null
+                  },
+                  {
+                    "width": 366,
+                    "height": 100,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/180906_Technip20logo_Energy_1_53e5a21604.webp",
+                    "previewUrl": null
+                  },
+                  {
+                    "width": 366,
+                    "height": 100,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/180906_Total_logo_Energy_2_1c8e5abe70.webp",
+                    "previewUrl": null
+                  },
+                  {
+                    "width": 366,
+                    "height": 100,
+                    "alternativeText": null,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/180906_wd_Logo_Ind_Buss_6_eb20edfc44.webp",
+                    "previewUrl": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "__typename": "ComponentBlocksBannerContent",
+            "heading": "Ready to talk about your challenges and opportunities? Let’s make the future happen.",
+            "subHeading": null,
+            "textPosition": "center",
+            "bannerSize": "medium",
+            "background": {
+              "width": 1920,
+              "height": 200,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/CTA_Section_BG_1_28a7475985.jpg",
+              "previewUrl": null
+            },
+            "bannerButtonName": "GET IN TOUCH",
+            "bannerButtonLink": "https://www.futurebridge.com/business-objective",
+            "isbannerButtonLinkExternal": false,
+            "bannerButtonTarget": "self",
+            "bannerButtonVariant": "Primary"
+          }
+        ]
+      }
+    ]
+  }
+}

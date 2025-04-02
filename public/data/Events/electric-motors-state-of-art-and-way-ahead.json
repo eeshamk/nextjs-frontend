@@ -1,0 +1,27 @@
+{
+  "data": {
+    "events": [
+      {
+        "title": "Electric Motors - State-of-art and Way Ahead",
+        "slug": "electric-motors-state-of-art-and-way-ahead",
+        "excerpts": null,
+        "postType": "event",
+        "public": true,
+        "eventDate": "2025-03-22",
+        "eventDescription": "<p>Electric motors account for nearly half of global electricity use. Even a modest 1% increase in efficiency can have a significant impact on energy savings and industrial performance. How can your organization stay ahead in this rapidly evolving space?</p>",
+        "eventLocation": "Webinar at your desk",
+        "eventRegistrationURL": "https://events.futurebridge.com/electric-motors-state-of-art-and-way-ahead",
+        "addEventToHome": true,
+        "postEventDetailsURL": null,
+        "timeZone": "8:00 PM IST",
+        "taxonomy": null,
+        "featuredImage": {
+          "alternativeText": null,
+          "height": 300,
+          "width": 300,
+          "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2114019077_e1737014205761_300x300_da8806f193.webp"
+        }
+      }
+    ]
+  }
+}

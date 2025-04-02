@@ -1,0 +1,859 @@
+{
+  "data": {
+    "pages": [
+      {
+        "title": "Life Sciences",
+        "slug": "life-sciences",
+        "parentPage": null,
+        "subPages": [],
+        "seo": null,
+        "blocks": [
+          {
+            "__typename": "ComponentBlocksBannerContent",
+            "heading": "Life Sciences ",
+            "subHeading": "Enabling Value Based Care",
+            "textPosition": "center",
+            "bannerSize": "large",
+            "background": {
+              "width": 1348,
+              "height": 496,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/v1_Future_Bridge_Life_Science_Landing_page_1_63e726c865.png",
+              "previewUrl": null
+            },
+            "bannerButtonName": null,
+            "bannerButtonLink": null,
+            "isbannerButtonLinkExternal": false,
+            "bannerButtonTarget": "self",
+            "bannerButtonVariant": "Primary"
+          },
+          {
+            "__typename": "ComponentBlocksStickySubMenu",
+            "menuLabel": "Overview",
+            "menuLink": "#overview",
+            "menuTarget": "self",
+            "isMenuLinkExternal": false,
+            "stickyMenus": [
+              {
+                "menuLabel": "Strategic Growth Fields",
+                "menuLink": "#sgf",
+                "menuTarget": "self",
+                "isMenuLinkExternal": false
+              },
+              {
+                "menuLabel": "Industry Participants",
+                "menuLink": "#industry-participants",
+                "menuTarget": "self",
+                "isMenuLinkExternal": false
+              },
+              {
+                "menuLabel": "Our Solutions",
+                "menuLink": "#our-solutions",
+                "menuTarget": "self",
+                "isMenuLinkExternal": false
+              },
+              {
+                "menuLabel": "Client Success Stories",
+                "menuLink": "#client-stories",
+                "menuTarget": "self",
+                "isMenuLinkExternal": false
+              }
+            ]
+          },
+          {
+            "__typename": "ComponentBlocksImageAndTextClickable",
+            "heading": "Oncology Solutions",
+            "description": "<p>Our customized oncology consulting services integrate in-depth<br>industry knowledge, relevant-analytics platforms, and PoVs<br>from leading external experts to offer efficient solutions<br>to pharmaceutical and biotech companies in the domains<br>of therapeutics and diagnostics.</p>",
+            "buttonLabel": "Lear more",
+            "buttonURL": "https://www.futurebridge.com/life-sciences/oncology/",
+            "buttontarget": "self",
+            "isButtonUrlExternal": false,
+            "buttonTheme": "Text_left_Image_right",
+            "backgroundImage": null
+          },
+          {
+            "__typename": "ComponentBlocksPostContent2ColumnLayout",
+            "postComponentVariant": "Image_on_top_with_title_and_content_below",
+            "post_1": {
+              "postTitle": "Autonomous Haulage Systems – The Future of Mining Operations",
+              "postSlug": "autonomous-haulage-systems-the-future-of-mining-operations",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 400,
+                "width": 400,
+                "url": "https://dev-strapi.futurebridge.com/uploads/996x400_WS_Article_Autonomous_Haulage_Systems1_400x400_1_484d09ec18.jpg"
+              },
+              "contentType": "articles"
+            },
+            "post_2": {
+              "postTitle": "Analyzing Circular Economy Innovations across Packaging, Devices, and Process Landscapes",
+              "postSlug": "analyzing-circular-economy-innovations-across-packaging-devices-and-process-landscapes",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 300,
+                "width": 300,
+                "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2324874197_scaled_e1712755970763_300x300_1_02f5c26897.jpg"
+              },
+              "contentType": "case-studies"
+            }
+          },
+          {
+            "__typename": "ComponentBlocksPostContent4ColumnLayout",
+            "post_1": {
+              "postSlug": "strategic-sustainability-leveraging-materiality-assessment-for-unified-esg-impact",
+              "postTitle": "Strategic Sustainability: Leveraging Materiality Assessment for Unified ESG Impact",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 300,
+                "width": 300,
+                "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2141340219_scaled_e1698675015842_300x300_bfe55cb126.jpg"
+              },
+              "contentType": "articles"
+            },
+            "post_2": {
+              "postSlug": "start-ups-landscape-anti-aging-and-personalization",
+              "postTitle": "Start-ups Landscape – Anti-aging & Personalization",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 349,
+                "width": 540,
+                "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_485736517_540x349_1_c266e6c428.jpg"
+              },
+              "contentType": "case-studies"
+            },
+            "post_3": {
+              "postSlug": "closing-the-400-gwh-gap-how-the-us-europe-are-reshaping-the-li-battery-value-chain",
+              "postTitle": "Electrifying the Future: How is the Li-Battery Value Chain Evolving in the US and Europe?",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 169,
+                "width": 300,
+                "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2336751257_300x169_1_2832bf1a2e.jpg"
+              },
+              "contentType": "research-reports"
+            },
+            "post_4": {
+              "postSlug": "eyes-on-emissions-monitoring-co-2-across-the-ccus-value-chain",
+              "postTitle": "Eyes on Emissions: Monitoring CO2 Across the CCUS Value Chain",
+              "postFeaturedImage": {
+                "alternativeText": null,
+                "height": 171,
+                "width": 300,
+                "url": "https://dev-strapi.futurebridge.com/uploads/Eyes_on_Emission_1_300x171_1_a2615391b7.jpg"
+              },
+              "contentType": "webinars"
+            }
+          },
+          {
+            "__typename": "ComponentBlocksImageAndTextClickable",
+            "heading": "Mobility Platform | Purpose-built for the Mobility value chain",
+            "description": "<p>The FutureBridge Mobility platform synthesizes unique insights into emerging automotive signals, exponential technologies and cross-industry innovation to help you:</p><p>Discover whitespace in next-generation automotive technologies, such as Software-Defined Vehicles, AI, data, connectivity, batteries and hydrogen.<br>Embrace winning business models to monetize the growth in electric vehicles, ADAS and shared mobility services.</p><p>Accelerate innovation for compliance with Sustainability regulations and targets in Circular Mobility.</p><p>Built on early-stage innovation signals across key strategic growth fields, it enables smarter decision-making to empower innovation, strategy and investments in Electrification, Connectivity, Autonomous Driving and Sustainability.</p><p>&nbsp;</p><h4 style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:rgb(0, 0, 0);font-family:CircularStd, &quot;Open Sans&quot;;font-size:30px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;letter-spacing:normal;line-height:1.2;margin:0px !important;orphans:2;padding:0px 0px 18px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"><strong>Transform your Business. Build the Future.</strong></h4>",
+            "buttonLabel": "Learn more",
+            "buttonURL": "https://platform.futurebridge.com/mobility",
+            "buttontarget": "self",
+            "isButtonUrlExternal": false,
+            "buttonTheme": "Image_left_Text_right",
+            "backgroundImage": null
+          },
+          {
+            "__typename": "ComponentBlocksSgf",
+            "heading": "Strategic Growth Fields",
+            "suheading": "A convergence of industry transformations and exponential technologies creates a pool of opportunities",
+            "sgfColumn": [
+              {
+                "image": {
+                  "width": 190,
+                  "height": 46,
+                  "alternativeText": null,
+                  "url": "/uploads/Total_logo_46_8332564f58.webp",
+                  "previewUrl": null
+                },
+                "list": [
+                  { "sgfListName": "Shared risks & costs" },
+                  { "sgfListName": "Virtual clinical trials & remote R&D" },
+                  { "sgfListName": "Portfolio optimization & LCM" },
+                  { "sgfListName": "Naturals & Alternatives" }
+                ],
+                "sgfName": "Paradigm Shift in R&D",
+                "sgfURL": "https://www.futurebridge.com/life-sciences/paradigm-shift-in-rd/",
+                "sgfTarget": null,
+                "isExternal": false
+              },
+              {
+                "image": {
+                  "width": 300,
+                  "height": 175,
+                  "alternativeText": null,
+                  "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2325201235_300x175_1_9dd6727f03.jpg",
+                  "previewUrl": null
+                },
+                "list": [
+                  { "sgfListName": "Theragnostics" },
+                  { "sgfListName": "Gene & cell therapy" },
+                  { "sgfListName": "Targeted drug delivery" },
+                  { "sgfListName": "Minimally invasive surgery (MIS)" }
+                ],
+                "sgfName": "Personalization & Precision",
+                "sgfURL": "https://www.futurebridge.com/life-sciences/personalization-precision/",
+                "sgfTarget": null,
+                "isExternal": false
+              },
+              {
+                "image": {
+                  "width": 300,
+                  "height": 300,
+                  "alternativeText": null,
+                  "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2114019077_e1737014205761_300x300_da8806f193.webp",
+                  "previewUrl": null
+                },
+                "list": [
+                  { "sgfListName": "Prophylactic care & vaccination" },
+                  { "sgfListName": "Early screening & rapid diagnosis" },
+                  { "sgfListName": "Real-time monitoring & treatment" },
+                  { "sgfListName": "Therapeutic nutrition" }
+                ],
+                "sgfName": "Preventive Care & Predictive Diagnostics",
+                "sgfURL": "https://www.futurebridge.com/life-sciences/preventive-care-predictive-diagnostics/",
+                "sgfTarget": null,
+                "isExternal": false
+              },
+              {
+                "image": {
+                  "width": 300,
+                  "height": 175,
+                  "alternativeText": null,
+                  "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2325201235_300x175_1_9dd6727f03.jpg",
+                  "previewUrl": null
+                },
+                "list": [
+                  { "sgfListName": "Value-based care" },
+                  { "sgfListName": "Home care" },
+                  { "sgfListName": "Patient Centricity & patient partnership" },
+                  { "sgfListName": "Wellness & self-care" }
+                ],
+                "sgfName": "Evolving Ecosystem",
+                "sgfURL": "https://www.futurebridge.com/life-sciences/evolving-ecosystem/",
+                "sgfTarget": null,
+                "isExternal": false
+              }
+            ],
+            "rightSideRedcolumnList": [],
+            "rightSideTitle": null
+          },
+          {
+            "__typename": "ComponentBlocksIndustryParticipants",
+            "heading": "Industry Participants",
+            "subHeading": null,
+            "leftIcon": null,
+            "rightIcon": null,
+            "industryParticipantsButtonName": null,
+            "industryParticipantsButtonLink": null,
+            "industryParticipantsButtonLinkExternal": false,
+            "industryParticipantsButtonTarget": "self",
+            "caption": null,
+            "backgroundImage": null,
+            "industryParticipantsButtonVariant": "Standard",
+            "industryItems": [
+              {
+                "buttonName": "Pharmaceuticals & Biotechnology",
+                "buttonLink": "https://www.futurebridge.com/life-sciences/pharmaceuticals-biotechnology/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": null
+              },
+              {
+                "buttonName": "Medical Devices & Diagnostics",
+                "buttonLink": "https://www.futurebridge.com/life-sciences/medical-device-diagnostics/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": null
+              },
+              {
+                "buttonName": "Consumer Health & Wellness",
+                "buttonLink": "https://www.futurebridge.com/life-sciences/consumer-health-self-care/",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": null
+              },
+              {
+                "buttonName": "Animal Health & Nutrition",
+                "buttonLink": "https://www.futurebridge.com/life-sciences/animal-health-nutrition",
+                "target": "self",
+                "variant": "Standard",
+                "isExternal": false,
+                "caption": null,
+                "leftIcon": null,
+                "rightIcon": null,
+                "backgroundImage": null
+              }
+            ]
+          },
+          {
+            "__typename": "ComponentBlocksOurSolutions",
+            "heading": "Our Solutions",
+            "futureOfColum": {
+              "title": "Future of",
+              "futureOfIcons": [
+                { "iconCaption": "Industries", "icon": null },
+                { "iconCaption": "Technology", "icon": null },
+                { "iconCaption": "Markets", "icon": null },
+                { "iconCaption": "Business Model", "icon": null },
+                { "iconCaption": "Competition", "icon": null },
+                { "iconCaption": "Regulations", "icon": null }
+              ]
+            },
+            "description": "<p><span style=\"color:rgb(0,0,0);font-family:CircularTT-Book;font-size:18px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Our solutions combine a unique blend of research, consulting, and hyper-intelligence industry &amp; technology platforms for deep insights</span></span><br><span style=\"color:rgb(0,0,0);font-family:CircularTT-Book;font-size:18px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">With our techno-commercial acumen, we unearth growth opportunities, connect technologies with markets and deliver business impact</span></span></p>",
+            "ourSolutionDescription": [
+              {
+                "ourSolutionItems": [
+                  { "title": "Foresight & Weak Signals", "description": null },
+                  {
+                    "title": "Key Industry Trends & Exponential Technologies",
+                    "description": null
+                  },
+                  {
+                    "title": "Technology Landscape & Deep Dive",
+                    "description": null
+                  },
+                  {
+                    "title": "Markets & Regulations Assessment",
+                    "description": null
+                  },
+                  {
+                    "title": "Technology Roadmaps & Horizon Planning",
+                    "description": null
+                  },
+                  {
+                    "title": "Business Disruption Monitoring & Opportunity Radar",
+                    "description": null
+                  }
+                ]
+              },
+              {
+                "ourSolutionItems": [
+                  {
+                    "title": "Solutions Scouting & Benchmarking",
+                    "description": null
+                  },
+                  {
+                    "title": "Technology, Market & Business Model Evaluation",
+                    "description": null
+                  },
+                  {
+                    "title": "Innovation Pipeline Development",
+                    "description": null
+                  },
+                  {
+                    "title": "Partner & Supplier Identification & Assessment",
+                    "description": null
+                  },
+                  {
+                    "title": "Partner & Supplier Identification & Assessment",
+                    "description": null
+                  }
+                ]
+              },
+              {
+                "ourSolutionItems": [
+                  {
+                    "title": "Partner/Supplier Collaboration & M&A Support",
+                    "description": null
+                  },
+                  { "title": "Technology Adoption", "description": null },
+                  {
+                    "title": "Technology Commercialization",
+                    "description": null
+                  },
+                  {
+                    "title": "Company / Technology Benchmarking & Due Diligence",
+                    "description": null
+                  },
+                  {
+                    "title": "Technology Implementation Ecosystems",
+                    "description": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "__typename": "ComponentBlocksBo",
+            "heading": "The Business Functions for Whom We Create Value",
+            "subHeading": null,
+            "futureOfItem": [
+              {
+                "title": "Future of",
+                "futureOfIcons": [
+                  { "icon": null },
+                  { "icon": null },
+                  { "icon": null },
+                  { "icon": null },
+                  { "icon": null },
+                  { "icon": null }
+                ]
+              }
+            ],
+            "businessFunction": {
+              "title": "Sustanibality",
+              "caption": "Your Business Objectives",
+              "businessFunctions": [
+                {
+                  "title": "Sustainability",
+                  "questions": [
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "What is the impact of sustainability on our business?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "How regulations vary per region / country and how do they impact us?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "Which are best-fit carbon capture technologies?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "What are the winning circular business models?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "How various bio-waste can be upcycled to be used in F&B, Pharma, HPC, etc. industries?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Which chemical recycling technologies are likely to win?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "How do I solve my waste feedstock challenge?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "How do we continue to be a sustainability leader?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "What is the future of plant / mill / refinery / shop floor / etc.?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "What new features / designs / materials should be there in the product of the future?"
+                    }
+                  ],
+                  "solutions": [
+                    {
+                      "solution": "Sustainability Roadmap",
+                      "sections": "Short_Mid"
+                    },
+                    {
+                      "solution": "Peer Strategy and Best Practices",
+                      "sections": "Short_Mid"
+                    },
+                    {
+                      "solution": "Solution / Technology / Partner etc. Scouting",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Policy Drivers and Regulations Assessment",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Future of process / product",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "LCA, Materiality, etc. assessment",
+                      "sections": "Short_Mid"
+                    },
+                    {
+                      "solution": "New Use Cases & Business Models",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Innovation Pipeline Development",
+                      "sections": "Short_Mid"
+                    },
+                    {
+                      "solution": "Partner / Supplier Collaboration & M&A Support",
+                      "sections": "Mid_Long"
+                    }
+                  ]
+                },
+                {
+                  "title": "Strategy and Future",
+                  "questions": [
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "How can I be faster and more dynamic in product development?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "Who are tomorrow’s competition in base chemicals?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "What can I learn from other industries in sustainability?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Where will suitable and lucrative unmet needs be?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "What are my competitors planning to do? Can you help to benchmark them?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Where will regulations close or open my market?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "How do I find new market segments?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "What are the opportunities for service business?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "What are the capabilities of start-ups in my industry?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "What are future scenarios for my industry?"
+                    }
+                  ],
+                  "solutions": [
+                    { "solution": "Early Signals", "sections": "Mid_Long" },
+                    {
+                      "solution": "Technology Landscape, Roadmaps and Scenario Planning",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Opportunity Identification",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Policy Drivers & Regulations Assessment",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Market Potential, Attractiveness & Outlook",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Competition Analysis & Benchmarking",
+                      "sections": "Short_Mid"
+                    },
+                    {
+                      "solution": "New Use Cases and Business Models",
+                      "sections": "Short_Mid"
+                    },
+                    {
+                      "solution": "Innovation Pipeline Development",
+                      "sections": "Short_Mid"
+                    },
+                    {
+                      "solution": "Partner/Supplier Collaboration & M&A Support",
+                      "sections": "Mid_Long"
+                    }
+                  ]
+                },
+                {
+                  "title": "Research Development & Innovation",
+                  "questions": [
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "Which are the promising waste sorting / pre-treatment technologies available?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "Which packaging materials would be replacing virgin plastics?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "What innovations are driving waste to chemicals initiatives?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Which chemical recycling technologies should we invest?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Which alternative feedstocks are more sustainable?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "How are innovations linked with customer unmet needs?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Where will regulations impact the innovation goals?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "Who are my university partners for future innovation?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "How will the demands for sustainability and traceability impact my future R&D direction?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "Which biotech technology would be relevant for chemicals production?"
+                    }
+                  ],
+                  "solutions": []
+                },
+                {
+                  "title": "Growth & Market Development",
+                  "questions": [
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "Predicting the movements in volume numbers in my industry?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "Who are my tomorrow’s competition?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "Where can I find new start-ups?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Materials availability, cost & technology change overtime? Will it impact my potential?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Where will unmet needs be?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "What are the key consumer trends? Impact on my business?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "Finding new market segments?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "What can the start-ups in my industry do?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "Where can I disrupt other industries?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "Where will regulations close or open my markets?"
+                    }
+                  ],
+                  "solutions": [
+                    {
+                      "solution": "Technology Landscape, Roadmaps and Scenario Planning",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Opportunity Identification",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Policy Drivers & Regulations Assessment",
+                      "sections": "Short_Mid"
+                    },
+                    {
+                      "solution": "Market Potential, Attractiveness & Outlook",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Competition Analysis & Benchmarking",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "New Use Cases & Business Models",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Innovation Pipeline Development",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Partner And Supplier Identification & Assessment",
+                      "sections": "Mid_Long"
+                    },
+                    {
+                      "solution": "Partner/Supplier Collaboration & M&A Support",
+                      "sections": "Mid_Long"
+                    },
+                    {
+                      "solution": "Technology Implementation Ecosystems",
+                      "sections": "Short_Mid_Long"
+                    }
+                  ]
+                },
+                {
+                  "title": "Manufacturing, Production & Logistics",
+                  "questions": [
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "How can I be faster and more dynamic?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "What innovations will disrupt my industry in the next few years?"
+                    },
+                    {
+                      "sections": "Insights_Short_Term",
+                      "question": "What can I learn from other industries?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Introducing new technology?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "What would be the impact of digitalization / industry 4.0?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Are there any solutions out there that improve quality, efficiency?"
+                    },
+                    {
+                      "sections": "Strategize_Medium_Term",
+                      "question": "Where will regulations close or open my markets?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "Find new partners?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "What can the start-ups in my industry do?"
+                    },
+                    {
+                      "sections": "Implement_Disruption_Long_Term",
+                      "question": "Materials availability, cost & technology change overtime? Impact?"
+                    }
+                  ],
+                  "solutions": [
+                    {
+                      "solution": "Technology Landscape, Roadmaps and Scenario Planning",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Policy Drivers & Regulations Assessment",
+                      "sections": "Short_Mid_Long"
+                    },
+                    {
+                      "solution": "Competition Analysis & Benchmarking",
+                      "sections": "Mid_Long"
+                    },
+                    {
+                      "solution": "New Use Cases & Business Models",
+                      "sections": "Short_Mid"
+                    },
+                    {
+                      "solution": "Innovation Pipeline Development",
+                      "sections": "Mid_Long"
+                    },
+                    {
+                      "solution": "Partner And Supplier Identification & Assessment",
+                      "sections": "Mid_Long"
+                    },
+                    {
+                      "solution": "Partner/Supplier Collaboration",
+                      "sections": "Mid_Long"
+                    },
+                    {
+                      "solution": "Technology Implementation Ecosystems",
+                      "sections": "Short_Mid"
+                    }
+                  ]
+                }
+              ]
+            },
+            "topLineText1": "Insights",
+            "topLineText2": "Strategize",
+            "topLineText3": "Implement Disruption",
+            "bottomLineText1": "Short Term",
+            "bottomLineText2": "Medium Term",
+            "bottomLineText3": "Long Term"
+          },
+          {
+            "__typename": "ComponentBlocksClientsStories",
+            "heading": "Client's Success Stories",
+            "clientsStoriesButtonName": null,
+            "clientsStoriesButtonLink": null,
+            "isExternal": false,
+            "clientsStoriesButtonTarget": "self",
+            "clientsStoriesButtonVariant": "Primary",
+            "subHeading": null,
+            "posts": [
+              {
+                "post": {
+                  "postSlug": "eyes-on-emissions-monitoring-co-2-across-the-ccus-value-chain",
+                  "postTitle": "Eyes on Emissions: Monitoring CO2 Across the CCUS Value Chain",
+                  "postFeaturedImage": {
+                    "alternativeText": null,
+                    "height": 171,
+                    "width": 300,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/Eyes_on_Emission_1_300x171_1_a2615391b7.jpg"
+                  },
+                  "contentType": "webinars"
+                }
+              },
+              {
+                "post": {
+                  "postSlug": "closing-the-400-gwh-gap-how-the-us-europe-are-reshaping-the-li-battery-value-chain",
+                  "postTitle": "Electrifying the Future: How is the Li-Battery Value Chain Evolving in the US and Europe?",
+                  "postFeaturedImage": {
+                    "alternativeText": null,
+                    "height": 169,
+                    "width": 300,
+                    "url": "https://dev-strapi.futurebridge.com/uploads/shutterstock_2336751257_300x169_1_2832bf1a2e.jpg"
+                  },
+                  "contentType": "research-reports"
+                }
+              }
+            ],
+            "clientVideos": null,
+            "clientSuccessStoriesVariant": "Left_one_post_Right_one_post"
+          },
+          {
+            "__typename": "ComponentBlocksBannerContent",
+            "heading": "Need a thought partner? ",
+            "subHeading": "Share your focus area or question to engage with our Analysts through the Business Objectives service.",
+            "textPosition": "center",
+            "bannerSize": "thin",
+            "background": {
+              "width": 2560,
+              "height": 480,
+              "alternativeText": null,
+              "url": "https://dev-strapi.futurebridge.com/uploads/Mask_Group_50_2x_1_458e74b23c.png",
+              "previewUrl": null
+            },
+            "bannerButtonName": "Submit My Business Objective",
+            "bannerButtonLink": "https://www.futurebridge.com/business-objective",
+            "isbannerButtonLinkExternal": false,
+            "bannerButtonTarget": "self",
+            "bannerButtonVariant": "Primary"
+          }
+        ]
+      }
+    ]
+  }
+}

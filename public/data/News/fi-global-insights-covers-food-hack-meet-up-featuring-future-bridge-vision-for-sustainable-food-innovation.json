@@ -1,0 +1,39 @@
+{
+  "data": {
+    "newss": [
+      {
+        "title": "Fi Global Insights Covers FoodHack Meet-Up, Featuring FutureBridge Vision for Sustainable Food Innovation",
+        "slug": "fi-global-insights-covers-food-hack-meet-up-featuring-future-bridge-vision-for-sustainable-food-innovation",
+        "public": false,
+        "excerpts": "Fi Global Insights Covers FoodHack Meet-Up, Featuring FutureBridge Vision for Sustainable Food Innovation",
+        "content": "<p>The recent article in Fi Global Insights covered the FoodHack meet-up at Informa Markets’ Amsterdam office, where specialists in food innovation, technology, and strategy took the stage to share their perspectives on driving industry change and promoting sustainable solutions. At the event, Jaideep Raje, Senior Vice President of Customer Innovation and Products at FutureBridge, alongside experts from Unilever and Rabobank, emphasized that sustainability is no longer a checkbox but the very foundation of long-term business success. Raje highlighted that companies must balance sustainability, scalability, and profitability—the triangle of risk—to make impactful decisions. While sustainability investments may take time to show tangible results, they position businesses for future growth and competitive advantage. Raje also stressed the importance of circular economies, where companies transform waste into valuable ingredients, creating new revenue streams while reducing environmental impact. This approach not only drives sustainability but also strengthens profitability, ensuring businesses remain competitive in a rapidly evolving market. The collaboration between FutureBridge, Unilever, and Rabobank underscores the critical need for ongoing partnerships to foster innovation and sustainability in the food sector. As these experts continue to track emerging trends, businesses are encouraged to adapt and innovate to stay ahead in this dynamic landscape. For more insights, visit: figlobal</p>",
+        "date": "2025-03-19",
+        "seo": {
+          "__typename": "ComponentSharedSeo",
+          "metaTitle": "Insights, Strategy, Technology Adoption | FutureBridge",
+          "metaDescription": "Our vision is to connect technologies, ecosystems, industries and markets to propel human enterprise forward. FutureBridge",
+          "keywords": null,
+          "metaViewport": null,
+          "structuredData": null,
+          "metaRobots": null,
+          "metaImage": null,
+          "canonicalURL": null,
+          "openGraph": {
+            "__typename": "ComponentSharedOpenGraph",
+            "openGraphUrl": null,
+            "openGraphType": null,
+            "openGraphTitle": "Insights, Strategy, Technology Adoption | FutureBridge",
+            "openGraphDescription": "The recent article in Fi Global Insights covered the FoodHack meet-up at Informa Markets’ Amsterdam office",
+            "openGraphImage": null
+          }
+        },
+        "featuredImage": {
+          "alternativeText": null,
+          "height": 169,
+          "width": 300,
+          "url": "https://dev-strapi.futurebridge.com/uploads/IMG_20250204_WA_0001_300x169_1_15ab505e4f.jpg"
+        }
+      }
+    ]
+  }
+}
